@@ -5,10 +5,11 @@ Graph generator of Raspberry Pi cumulative shipments data on wikipedia.
 wikipedia用 ラズパイ累計出荷台数のグラフ作成
 
 The graph is used on:
-https://ja.wikipedia.org/wiki/Raspberry_Pi
-https://fr.wikipedia.org/wiki/Raspberry_Pi
-https://it.wikipedia.org/wiki/Raspberry_Pi
-https://zh.wikipedia.org/wiki/%E6%A0%91%E8%8E%93%E6%B4%BE
+
+- <https://ja.wikipedia.org/wiki/Raspberry_Pi>
+- <https://fr.wikipedia.org/wiki/Raspberry_Pi>
+- <https://it.wikipedia.org/wiki/Raspberry_Pi>
+- <https://zh.wikipedia.org/wiki/%E6%A0%91%E8%8E%93%E6%B4%BE>
 
 
 
