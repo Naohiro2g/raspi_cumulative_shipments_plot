@@ -1,8 +1,9 @@
 # naohiro2g/raspi_cumulative_shipments_plot
 
 Graph generator of Raspberry Pi cumulative shipments data on wikipedia.
-
 wikipedia用 ラズパイ累計出荷台数のグラフ作成
+
+<img src="./images/Raspberry Pi Cumulative Shipment Units.png" width="240">
 
 The graph is used on:
 
