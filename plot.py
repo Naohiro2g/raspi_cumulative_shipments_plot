@@ -1,4 +1,4 @@
-# version 2022-04-22
+# version 2025-02-13
 # wikipedia  https://ja.wikipedia.org/wiki/Raspberry_Pi
 
 
@@ -38,6 +38,8 @@ date_values = (
     ("2021/9/22", 42000000),
     ("2021/11/16", 43000000),
     ("2022/2/28", 46000000),
+    ("2022/02/28", 46000000),
+    ("2024/05/14", 60000000)
     )
 dates, values = zip(*date_values)
 
@@ -55,13 +57,13 @@ canvas = matplotlib.backends.backend_agg.FigureCanvasAgg(fig)
 # FIG_TITLE = 'Raspberry Pi 累計出荷台数 (百万台)'
 FIG_TITLE = 'Cumulative Shipment Units (mil)'
 UNITS_DIV = 1000000
-UNITS_LIM = 50000000
+UNITS_LIM = 70000000
 
 # FONT_NAME1 = "./Hackgen"
 # ax.set_title(FIG_TITLE, fontsize=8, fontproperties=FONT_NAME1)
 
-ax.set_title(FIG_TITLE, fontsize=8)
-ax.set_xlim([dt.date(2012, 1, 1), dt.date(2023, 1, 31)])
+ax.set_title(FIG_TITLE, fontsize=9)
+ax.set_xlim([dt.date(2012, 1, 1), dt.date(2026, 1, 31)])
 
 ax.set_ylim(0, UNITS_LIM)
 ax.axes.tick_params(direction='in', width=1.2)

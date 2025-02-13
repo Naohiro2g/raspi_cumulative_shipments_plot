@@ -1,0 +1,18 @@
+[project]
+name = "raspi-cumulative-shipments-plot"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Naohiro2g",email = "587586+Naohiro2g@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib (>=3.10.0,<4.0.0)"
+]
+no-modules = true
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
