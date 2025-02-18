@@ -1,19 +1,20 @@
-50
-3rd Jan 2023
-https://www.raspberrypi.com/news/liz-and-eben-honoured-by-the-national-museum-of-computing/
-
-Eben described how frustrating it was in the early 2000s when the number of computer science applicants to the University of Cambridge, where he worked, was declining, and students coming through with good enough programming skills were in danger of becoming extinct. He wanted to create a computer of the kind that had inspired him back in the 1980s — namely, the BBC Micro — so he set about designing the first Raspberry Pi, in the hope of selling as many as 10,000 units if things went really well. Almost eleven years later, we’ve sold around 50 million.
-
-
-55
-Published 10/09/2023, 02:14 AM
-https://www.investing.com/news/stock-market-news/raspberry-pi-plans-ipo-on-london-stock-exchange-in-h2-2024-93CH-3193264
-
-Raspberry Pi Ltd is governed by the Raspberry Pi Foundation, an educational charity that may retain shares after the IPO and could potentially receive future profits. The company has sold approximately 55 million computers to date and reported revenues of $188 million with an operating profit of $20 million.
-
-
-60
-15 May 2024
-https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316
-
-Since Raspberry Pi began trading in 2012, it has sold over 60 million SBCs and compute modules, of which 7.4 million were sold in 2023.
+2023年1月3日までで5,000万台<ref name="50 million">
+{{Citation
+| url  = https://www.raspberrypi.com/news/liz-and-eben-honoured-by-the-national-museum-of-computing/
+| title= Liz and Eben honoured by The National Museum of Computing
+| quote= Almost eleven years later, we’ve sold around 50 million.
+| publisher  = Raspberry Pi Foundation
+}}</ref>、
+2023年10月9日までで5,500万台<ref name="55 million">
+{{Citation
+| url  = https://www.investing.com/news/stock-market-news/raspberry-pi-plans-ipo-on-london-stock-exchange-in-h2-2024-93CH-3193264
+| title= Liz and Eben honoured by The National Museum of Computing
+| quote= Almost eleven years later, we’ve sold around 50 million.
+| publisher  = Investing.com
+}}</ref>、
+2024年5月15日までで6,000万台<ref name="60 million">
+{{Citation
+| url  = https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316
+| title= Since Raspberry Pi began trading in 2012, it has sold over 60 million SBCs and compute modules, of which 7.4 million were sold in 2023.
+| publisher  = London Stock Exchange plc
+}}</ref>
